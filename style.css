@@ -1,0 +1,8 @@
+body {
+    background-color: blue;
+}
+.meu-botao{
+    background-color: rgb(230, 22, 22);
+    width: 100px;
+    height: 10px;
+}
